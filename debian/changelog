@@ -1,3 +1,9 @@
+qxmpp (1.4.0-2deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Fri, 20 Sep 2024 12:17:27 +0800
+
 qxmpp (1.4.0-2) unstable; urgency=medium
 
   * Move to unstable: no changes required.
